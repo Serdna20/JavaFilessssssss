@@ -1,0 +1,10 @@
+com\mycompany\angrybirds\bird\Bird.class
+com\mycompany\angrybirds\bird\BirdSkill.class
+com\mycompany\angrybirds\AngryBirds.class
+com\mycompany\angrybirds\level\Level.class
+com\mycompany\angrybirds\levelGoal\Pig.class
+com\mycompany\angrybirds\bird\Size.class
+com\mycompany\angrybirds\objectBehavior\AudioBehavior.class
+com\mycompany\angrybirds\block\Block.class
+com\mycompany\angrybirds\block\Material.class
+com\mycompany\angrybirds\levelObject\LevelObject.class

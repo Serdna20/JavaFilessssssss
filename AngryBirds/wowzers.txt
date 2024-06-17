@@ -1,0 +1,3 @@
+Blocks:[Wood Square,Wood Square,Wood Square,Wood Square,Wood Square,Wood Square,Wood Square,Wood Square,Wood Square,Wood Square,
+Birds:[Red,Red,Red,
+Pigs:[Foreman Pig,Foreman Pig,Foreman Pig,Foreman Pig,Foreman Pig,
